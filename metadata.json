@@ -1,0 +1,8 @@
+
+{
+  "name": "Tang‘s Merry Christmas Tree",
+  "description": "A stunning 3D particle visualization of a celestial tree with a pulsing heart, featuring interactive wish generation powered by Gemini and real-time hand gesture interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
